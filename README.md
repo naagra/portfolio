@@ -2,7 +2,19 @@
 
 Working with Spotify API and use the dataset to analyse top 50 most played tracks in Indonesia 2021 using python
 
-Init : 25 March 2022
+___
+
+this will answer saome question like:
+1
+2
+3
+
+will be using tools & framewordk
+1
+2
+3
+
+For final visualization check Tableau Page here ......
 
 ## Description
 
